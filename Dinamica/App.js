@@ -20,3 +20,16 @@ buttons.forEach((item) => {
     }
   };
 });
+
+
+
+const themToggleBtn=document.querySelector(".theme-toggler");
+const calculator=document.querySelector(".calculator");
+
+let isDark=true;
+
+themToggleBtn.onclick = ()=>{
+  calculator.classList.toggle("dark");
+  themToggleBtn.classList.toggle("active");
+  isDark=!isDark;
+};
