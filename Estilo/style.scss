@@ -49,7 +49,7 @@
     }
     .btn-operator {
       background-color: rgb(213, 4, 157);
-      color: rgb(1, 1, 12);
+      color: rgb(0, 4, 219);
     }
     .btn-equal {
       background-color: #adf9e7;
@@ -103,7 +103,7 @@
   .theme-toggler.active {
     color: #333;
     &::before {
-      background-color: #fff;
+      background-color: #F0DB4F;
     }
   }
   button {

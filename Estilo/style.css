@@ -54,7 +54,7 @@ body {
 }
 .calculator .btn-operator {
   background-color: rgb(213, 4, 157);
-  color: rgb(1, 1, 12);
+  color: rgb(0, 4, 219);
 }
 .calculator .btn-equal {
   background-color: #adf9e7;
@@ -108,7 +108,7 @@ body {
   color: #333;
 }
 .theme-toggler.active::before {
-  background-color: #fff;
+  background-color: #F0DB4F;
 }
 
 button {
