@@ -13,7 +13,7 @@ CSS: Aplicado para el diseño y estilo, permitiendo una presentación atractiva.
 JavaScript: Implementado para la lógica y la interactividad, haciendo que la calculadora cobre vida con animaciones y funcionalidades dinámicas.
 
 # Curso de Aprendizaje 📚
-Este proyecto fue creado como parte del curso de JavaScript con DOM de freeCodeCamp. Este curso proporciona una excelente base para comprender el Document Object Model (DOM) y cómo utilizar JavaScript para interactuar con él. Puedes acceder al curso y descubrir otros proyectos emocionantes a través del siguiente enlace: freeCodeCamp JavaScript con DOM.
+Este proyecto fue creado como parte del curso de JavaScript con DOM de codigo 369 Este curso proporciona una excelente base para comprender el Document Object Model (DOM) y cómo utilizar JavaScript para interactuar con él. Puedes acceder al curso y descubrir otros proyectos emocionantes a través del siguiente enlace: https://www.youtube.com/@Codigo369.
 
 # Instrucciones de Uso 🚀
 Abre el archivo index.html en tu navegador web.
